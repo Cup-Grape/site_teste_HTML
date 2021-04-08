@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(218, 218, 218);
+    width: 100%;
+}
+
+/*.publicidade{
+    text-align: center;
+    background-color: white;
+    margin: 0px 0px -3px 0px;
+    
+} Futuramente talvez*/
+
+.cabecalho{
+    text-align: center;
+    background-color: #d2040c;
+    margin: 0px 0px 0px 0px;
+    padding-top: 5px;
+    min-width: 50%;
+    
+}
+
+
+.conteudo{
+
+    margin: 20px 250px 0px 150px;
+
+    font-family: "Helvetica";
+    text-align: center;
+    font-size: 15px;
+
+    background-color: #f3eeee;
+    padding: 15px;
+
+    border-radius: 2px;
+    border: solid rgb(185, 185, 185) 1px;
+
+    min-width: 50%;
+}
+
+p{
+    text-align: justify;
+
+}
+
+
+.img_ps5{
+    background-color: #d2040c;
+    padding: 0px;
+    text-align: center;
+    border: solid black 1px;
+    min-width: 50%;
+ 
+}
+
+.rodape{
+    background-color: rgb(187, 187, 187);
+    font-size: 16px;
+    margin: 80px 0px 0px 0px;
+    padding: 5px;
+    border: solid rgb(139, 139, 139) 1px;
+
+    min-width: 50%;
+}
+
+.rodape_c{
+    background-color: rgb(187, 187, 187);
+    font-size: 16px;
+    margin: 332px 0px 0px 0px;
+    padding: 5px;
+    border: solid rgb(139, 139, 139) 1px;
+
+    min-width: 50%;
+}
+
+.conteudo_rodape{
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+
+.img_americanas{
+    margin: -20px 0px -25px 270px;
+}
+
+.txt_mapa{
+    text-align: center;
+}
+
+.formulario{
+    font-family: "Helvetica";
+    font-size: 15px;
+
+    margin: 20px 150px 0px 150px;
+    min-height: 50%;
+    min-height: 50%;
+
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+
+    background-color: #f3eeee ;
+    padding: 15px;
+
+    border-radius: 2px;
+    border: solid rgb(185, 185, 185) 1px;
+
+}
